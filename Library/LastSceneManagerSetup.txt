@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/aset game/game_play.unity
-  isLoaded: 1
-  isActive: 1
